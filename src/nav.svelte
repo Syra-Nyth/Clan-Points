@@ -13,10 +13,5 @@
 
 <nav>
 	<a href=".">Home</a>
-	<a href=".">Balmoral</a>
-	<a href=".">Braemar</a>
-	<a href=".">Doune</a>
-	<a href=".">Dunvegan</a>
-	<a href=".">Glamis</a>
-	<a href=".">Sterling</a>
+	<a href="display">Display</a>
 </nav>

@@ -6,7 +6,7 @@
 </style>
 
 <header>
-	<h1>
+	<h1 class="is-size-1">
 		Clan Points
 	</h1>
 </header>

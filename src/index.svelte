@@ -2,11 +2,15 @@
     import Header from './header.svelte'
 	import Nav from './nav.svelte'
 	import Footer from './footer.svelte'
+	import Display from './display.svelte'
 </script>
 
 <Header />
+
+<p></p>
+
 <Nav />
 
-<p>The clan placings, so far through the year!</p>
+<Display />
 
 <Footer />
