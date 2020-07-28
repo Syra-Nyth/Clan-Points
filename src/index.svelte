@@ -7,8 +7,6 @@
 
 <Header />
 
-<p></p>
-
 <Nav />
 
 <Display />

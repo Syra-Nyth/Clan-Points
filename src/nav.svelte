@@ -15,3 +15,4 @@
 	<a href=".">Home</a>
 	<a href="display">Display</a>
 </nav>
+<br>
